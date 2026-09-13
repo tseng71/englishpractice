@@ -39,7 +39,6 @@
 | [Curriculum_40_Lessons.md](Curriculum_40_Lessons.md) | 40课目录、角色、初始事实、必练节点、意外、通过标准与迁移题 |
 | [Project_Instructions.md](Project_Instructions.md) | 可复制的通用项目教学指令 |
 | [Assessment_and_Review.md](Assessment_and_Review.md) | 四维0–2分量表、进度结构及1/3/7/14天复习规则 |
-| [MIGRATION.md](MIGRATION.md) | 旧版升级规则、场景边界和验证说明 |
 
 ## 安装后的简短自检
 
@@ -50,5 +49,3 @@
 所有价格、机构、日期、政策和人物均为虚构教学设定；课程不办理真实交易，不提供医疗、法律或财务建议。评分衡量本次沟通任务，不能替代语言等级认证。只有文本证据时不评发音、节奏或真实听力水平。
 
 公开仓库不包含学习者的真实进度；不要把自己的 `Learning_Progress.md`、真实身份或付款资料提交到公开仓库。
-
-已有旧版教材的用户可另读 [升级附录](MIGRATION.md)，全新用户无需此步骤。
